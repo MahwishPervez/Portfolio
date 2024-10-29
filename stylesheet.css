@@ -19,7 +19,7 @@ body {
 nav {
     display: flex;
     justify-content: center;
-    background-color: #d1c6c0; /* Matched with table header color */
+    background-color: #d1c6c0; 
     padding: 0.5em;
     border-radius: 8px;
 }
